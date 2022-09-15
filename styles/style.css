@@ -18,8 +18,8 @@ button, summary {
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	--color-text:white;
+	--color-background:black;
 }
 
 
@@ -37,3 +37,32 @@ body {
   background-color:var(--color-background);
 }
 
+label {
+	display: block;
+}
+
+header{
+	display: flex;
+}
+
+header img{
+max-width: 10%;
+}
+
+a{
+	color: white;
+}
+ul{
+	display: flex;
+	gap: 2em;
+	margin-left: 30em;
+
+}
+
+li{
+	list-style: none;
+}
+
+li a{
+	text-decoration: none;
+}

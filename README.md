@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Melanie Slof (vervangen door jouw naam)
+  Melanie Slof
 
   #### Je startniveau:
-  Blauw (kies uit zwart, rood óf blauw)
+  Blauw
 
   #### Je focus:
-  surface plane (kies uit responsive óf surface plane)
+  surface plane 
  
 </details>
 
@@ -40,11 +40,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/ss1.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/ss2.png" width="375px">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/ss3.png" width="375px">
+  <img src="readme-images/ss4.png" width="375px">
  
 </details>
 
@@ -111,13 +114,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1e voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+Eerste week kennis opgehaald en de lessen gevolg en opdrachten gemaakt over flexbox etc. 2de week html en veel videos gekeken over forms, die zijn nu gelukt en waren best lastig, vanaf nu komende week focussen op css
+
+
+  <img src="readme-images/screenweb1.png" >
+  <img src="readme-images/screenweb2.png">
+  <img src="readme-images/code1.png" >
+  <img src="readme-images/code2.png" >
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | student 1      | student 2          | student 3    | student 4 Code doornemen       |Code doornemen   Code doornemen  Code doornemen
   | ---            | ---                | ---          | ---              |
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
